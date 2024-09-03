@@ -21,3 +21,4 @@ https://github.com/WongKinYiu/yolov7?tab=readme-ov-file#export
 - Windows 11, I9-9900K, GTX 3070, Chrome 128.0.6613.114: no error
 - Samsung S20 FE 5G (SM-G781B), Qualcomm SM8250 Snapdragon 865 5G, Adreno 650, Chrome 128.0.6613.99: no error
 - Samsung Galaxy Tab S8 (SM-X700), Qualcomm SM8450 Snapdragon 8 Gen 1, Adreno 730, Chrome 128.0.6613.99: **Error**
+- My other devices are not supported by WebGPU
