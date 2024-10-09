@@ -4,7 +4,10 @@ Code in [src/routes/+page.svelte](src/routes/+page.svelte)
 
 # To run
 
-`yarn dev`
+```bash
+yarn install
+yarn dev
+```
 
 # Model
 
